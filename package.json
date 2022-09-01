@@ -1,0 +1,10 @@
+{
+	"private": true,
+	"scripts": {
+		"test": "stylelint index.css"
+	},
+	"dependencies": {
+		"stylelint": "^14.11.0",
+		"stylelint-gamut": "^1.2.8"
+	}
+}
